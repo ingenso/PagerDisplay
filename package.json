@@ -1,0 +1,12 @@
+{
+    "name": "PagerDisplay",
+    "description": "Pager Display and Sending Interface",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_PagerDisplay.json",
+            "credentialsFile": "flows_PagerDisplay_cred.json"
+        }
+    }
+}
